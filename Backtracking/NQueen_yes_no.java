@@ -1,4 +1,3 @@
-package Backtracking;
 
 public class NQueen_yes_no {
     public static boolean Nqueen(char Bord[][] , int row){

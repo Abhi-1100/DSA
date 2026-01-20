@@ -1,4 +1,3 @@
-package Backtracking;
 
 public class NQueen_Count {
     static  int count;

@@ -57,7 +57,6 @@ Output :
 ---------------------------------------------------------------
 */
 
-package Backtracking;
 
 public class GridWays {
     public static int CountWays(int i, int j, int n, int m){

@@ -60,7 +60,6 @@ Output:
 ---------------------------------------------------------------
 */
 
-package Backtracking;
 
 public class sudoku {
     public static boolean issafe(int bord[][], int row, int col, int digit){

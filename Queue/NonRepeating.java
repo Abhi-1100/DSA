@@ -1,4 +1,3 @@
-package Queue;
 import java.util.*;
 public class NonRepeating {
     public static void PrintNonRepeating(String str){

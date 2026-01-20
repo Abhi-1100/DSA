@@ -57,7 +57,6 @@ Output :
 ---------------------------------------------------------------
 */
 
-package Backtracking;
 
 public class NQueen {
     public static void Nqueen(char Bord[][] , int row){
