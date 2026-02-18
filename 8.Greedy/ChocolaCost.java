@@ -27,6 +27,8 @@ public class ChocolaCost {
             }
         }
 
+
+        // for the left over pices if in case 
         while (h < costhor.length) {
             TotalCost += (costhor[h] * vp);
             hp++;
