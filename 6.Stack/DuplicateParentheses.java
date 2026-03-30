@@ -1,4 +1,4 @@
-package Stack;
+
 import java.util.*;
 public class DuplicateParentheses {
     public static boolean FindDuplicate(String str){

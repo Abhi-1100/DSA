@@ -63,7 +63,7 @@ Output : 49
 ---------------------------------------------------------------
 */
 
-package ArrayList;
+
 import java.util.ArrayList;
 public class container_with_most_water_bruteForse {
     public static int Water_Vol(ArrayList<Integer> list){

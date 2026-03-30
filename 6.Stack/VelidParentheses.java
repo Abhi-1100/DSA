@@ -1,4 +1,4 @@
-package Stack;
+
 import java.util.*;
 public class VelidParentheses {
     public static boolean isValid(String str){

@@ -61,7 +61,7 @@ Note:
 ---------------------------------------------------------------
 */
 
-package ArrayList;
+
 import java.util.ArrayList;
 public class pairSum_1_BruteForce {
     public static boolean PairSum(ArrayList<Integer> list, int target){
